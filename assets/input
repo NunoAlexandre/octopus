@@ -1,0 +1,3 @@
+{"type":"B","foo":"bar","items":["eight","nine"]}
+{"type": "A","foo": 42.0 }
+{"type": "B","bar": "computers"}
